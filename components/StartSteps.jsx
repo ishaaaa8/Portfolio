@@ -1,4 +1,5 @@
 import styles from "../styles";
+
 const StartSteps = ({number , text}) => (
   <div className={`${styles.flexCenter} flex-row`}>
     <div className={`${styles.flexCenter} w-[70px] h-[70px] rounded-md-[24px] bg-[#323f5d] rounded-[24px]`}>
