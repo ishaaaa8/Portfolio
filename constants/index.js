@@ -27,12 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Name: Isha Singh',
-  'Email id: itsisha4884@gmail.com',
-  'Languages: English , Hindi',
-  'Github: ishaaa8',
-  'Linkedin: ishasingh08',
-  'Leetcode: Ishaa_S'
+  'Upcoming Software Engineer - Google',
+  'Machine Learning Research Intern - Center of Excellence in AI',
+  'Mentee - Codess Cafe',
 ];
 
 export const newFeatures = [
@@ -54,39 +51,44 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Google Interview Experience 2024',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'This is a blog where I have shared my entire selection process for Google Software Engineer Internship',
   },
-  {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
-    subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
-  },
-  {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
-    subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
-  },
+  // {
+  //   imgUrl: '/planet-07.png',
+  //   title: '7 tips to easily master the madness of the Metaverse',
+  //   subtitle:
+  //       'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+  // },
+  // {
+  //   imgUrl: '/planet-08.png',
+  //   title: 'With one platform you can explore the whole world virtually',
+  //   subtitle:
+  //       'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+  // },
 ];
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: 'github',
+    url: '/github.svg',
+    link: 'https://github.com/ishaaaa8',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    link: 'https://www.linkedin.com/in/isha-singh88/',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    link: 'https://www.instagram.com/__._ishhaaa_.__/',
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'gmail',
+    url: '/favicon.ico',
+    link: 'mailto:www.itsisha4884@gmail.com',
   },
+
 ];
