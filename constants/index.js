@@ -3,26 +3,31 @@ export const exploreWorlds = [
     id: 'world-1',
     imgUrl: '/planet-01.png',
     title: 'URL-Shortner',
+    url:'https://github.com/ishaaaa8/URL-SHORTNER',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
     title: 'Literary-Escape',
+    url:'https://github.com/ishaaaa8/Literary-Escape',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
     title: 'Giffy',
+    url:'https://github.com/ishaaaa8/GIFFY',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
     title: 'Jaypee Maps',
+    url:'https://github.com/ishaaaa8/Jaypee-Maps',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
     title: 'Hawkins Labs',
+    url:'',
   },
 ];
 
