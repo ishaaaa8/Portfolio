@@ -14,14 +14,14 @@ const About = () => (
       viewport={{once: false, amount: 0.25}}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Metaversus"
+      <TypingText title="| About Me"
       textStyles = "text-center" />
 
       <motion.p
         variants={fadeIn('up','tween',0.2,1)}
         className='mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white'
       >
-        <span  className='font-extrabold text-white'>Isha</span> vbsefkjverjfc  efveurgfe fc efvuygfe vgejfge f ebvfyje4gf vd bgeyef refhbeiugwe4fv e rhjyg4ubfre g4hjtg54ytvv45ut 5g <span  className='font-extrabold text-white'>g45g g g 5</span>g45g g g 5tg4g g gjveb guug5 vrkjgfg fbug4bgr v rgrg tv jf <span  className='font-extrabold text-white'>nbb vrk ndv dvile 5</span>  , dv f fmb rtkbc v fkbg  brnbrdkgbf c fbkrtb vcbmcfmbf  v cmfbgf v 
+         I'm a <span  className='font-extrabold text-white'>Full Stack Web Developer</span> . In the vast expanse of ones and zeros, I am a digital architect weaving immersive web experiences, exploring the frontiers of <span  className='font-extrabold text-white'>AI/ML</span> , and mastering <span  className='font-extrabold text-white'>algorithms</span>  that shape tomorrow's technology landscape.
 
       </motion.p>
       <motion.img

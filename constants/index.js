@@ -2,22 +2,22 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'URL-Shortner',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'Literary-Escape',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Giffy',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Jaypee Maps',
   },
   {
     id: 'world-5',
@@ -27,23 +27,27 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Name: Isha Singh',
+  'Email id: itsisha4884@gmail.com',
+  'Languages: English , Hindi',
+  'Github: ishaaa8',
+  'Linkedin: ishasingh08',
+  'Leetcode: Ishaa_S'
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Jaypee Institute Of Information Technology',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'B.tech (Computer Science & Engineering) - CGPA: 8.7',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'St. Mary\'s Convent Sr. Sec. School, Dhampur',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'CBSE - 12th Score 97.6% CBSE - 10th Score 98.2%',
+
   },
 ];
 
